@@ -1,5 +1,5 @@
 ---
-title: "30*30cm Acrylic on Canvas Series"
+title: "Me Series"
 excerpt: "<img src='/images/p1/p1-1-sample.JPG'>"
 collection: portfolio
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Pencil on Cardboard Series"
+title: "Clown Series"
 excerpt: "<img src='/images/p2/p2-1-sample.JPG'>"
 collection: portfolio 2
 ---
