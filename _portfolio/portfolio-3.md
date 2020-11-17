@@ -13,4 +13,4 @@ collection: portfolio 3
 
 [ ![](/images/p3/p3-4-sample.JPG) ](/images/p3/p3-4.JPG)
 
-[ ![](/images/p3/p3-5-sample.HEIC) ](/images/p3/p3-5.HEIC)
+[ ![](/images/p3/p3-5-sample.JPG) ](/images/p3/p3-5.JPG)
