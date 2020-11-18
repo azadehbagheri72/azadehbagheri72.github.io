@@ -1,5 +1,5 @@
 ---
-title: "Etching & Aquatint Series"
+title: "Clown (Printmaking) Series"
 excerpt: "<img src='/images/p3/p3-1-sample.JPG'>"
 collection: portfolio 3
 ---
