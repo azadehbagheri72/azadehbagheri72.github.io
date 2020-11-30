@@ -8,4 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm Azadeh Bagheri. Like almost every child, I liked painting a lot during my childhood, but I fell in love with mathematics in high school! After some years, I got my degree in biomedical engineering and got a biomedical company job, but I still loved painting. At the same time, I started going to drawing classes. Those classes made me sure that I want to be a painter! So, I quit my job and registered for Visual Arts in the university entrance exam. Now I've got my master's degree in Visual Arts, and till now, I couldn't find any other work as enjoyable as painting and exploring through the Art world.
+My name is Azadeh Bagheri (written as “_آزاده باقری_” in my native language-- Persian). I received my master degree in Visual Arts at the [Tehran University of Art](https://art.ac.ir/en). 
+My master thesis is about _Qajar_’s painting alternation which is related to gender and sexuality discourse in _Qajar_ period. 
+
+I am currently working with _Negah-e-fard_ Magazine. I am a member of editorial board and my job is to translate and write essays, reports and reviews for our online magazine.
+
+## Interests
+
+- Art History
+- Feminism
+- Women’s, Gender and Sexuality Studies
+- Middle eastern Art
+
