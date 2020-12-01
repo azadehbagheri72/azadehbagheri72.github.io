@@ -18,5 +18,5 @@ I am currently working with _Negah-e-fard_ Magazine. I am a member of editorial 
 - Art History
 - Feminism
 - Women’s, Gender and Sexuality Studies
-- Middle eastern Art
+- Middle Eastern Art
 
