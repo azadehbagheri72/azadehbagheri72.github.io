@@ -9,7 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+You can download my full CV from [here](http://azadehbagheri72.github.io/files/cv-azadehbagheri.pdf).
+
+
+<!-- Education
 ======
 * M.A. in Visual Arts (Painting), Tehran University of Art, Tehran, Iran, 2017-2020
 * B.Sc. in Biomedical Engineering, Amirkabir University of Technology, Tehran, Iran, 2011-2015.
@@ -43,7 +46,7 @@ Other Activities
 * Khoshnevisan e Novin Calligraphy Institute, Calligraphy with Ball-Point Pen, 6 terms (Full Course), Tehran, Iran, 2012
 * Elementry School Teacher, Imam Ali Popular Students Relief Society, Voluntary work, Tehran, Iran,  2016
 * R&D Technician in Tajhiz Gostar e Sharif, Tehran, Iran, 2016
-* Educational Consultant at Modarresan-e-Sharif Institute, Visual Arts Department, Tehran, Iran, 2017-2018
+* Educational Consultant at Modarresan-e-Sharif Institute, Visual Arts Department, Tehran, Iran, 2017-2018 -->
 
 
 
