@@ -48,8 +48,8 @@ Awards and Honors
 
 Working Experience
 ======
-* Editorial member in  [**Negah-e-Fard Magazine**](http://fardmag.ir/) (Art \& Culture), Tehran, Iran, 2019-now
-* R\&D Technician in _Tajhiz-Gostar-e-Sharif_, Tehran, Iran, 2016
+* Editorial member in  [**Negah-e-Fard Magazine**](http://fardmag.ir/) (Art & Culture), Tehran, Iran, 2019-now
+* R&D Technician in _Tajhiz-Gostar-e-Sharif_, Tehran, Iran, 2016
 
 Teaching Experience
 ======
