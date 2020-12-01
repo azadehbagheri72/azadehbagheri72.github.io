@@ -22,7 +22,7 @@ Voluntarily Art Courses
 ======
 * **Theoretical Courses**
   * Writing Course: with a focus on Art criticism, Instructor: Saeed Babavand, Tehran, Iran, 2020
-  * _Modernism: with a focus on Iranian modernism_, Instructor: [https://www.art-histories.de/fellows/vita.html?tx_epxbase_epxbase\%5Bfellow\%5D=395&cHash=1d778a92320ec76303b27e0bb75527fc](**Dr. Combiz Moussavi-Aghdam**), University Scientific Association, Visual Arts Department, Tehran University of Art, Tehran, Iran, 2019
+  * _Modernism: with a focus on Iranian modernism_, Instructor: [**Dr. Combiz Moussavi-Aghdam**](https://www.art-histories.de/fellows/vita.html?tx_epxbase_epxbase\%5Bfellow\%5D=395&cHash=1d778a92320ec76303b27e0bb75527fc), University Scientific Association, Visual Arts Department, Tehran University of Art, Tehran, Iran, 2019
 * **Practical Courses**
   * Figurative Oil Painting (Advanced), Instructor: Farsam Sangini, **Sam Art House**, Tehran, Iran, 2019
   * Acrylic and Oil Painting, Instructor: Shadi Noyani, **Jomeh Art Institute**, Tehran, Iran, 2016
@@ -48,7 +48,7 @@ Awards and Honors
 
 Working Experience
 ======
-* Editorial member in  [http://fardmag.ir/](**Negah-e-Fard Magazine**) (Art \& Culture), Tehran, Iran, 2019-now
+* Editorial member in  [**Negah-e-Fard Magazine**](http://fardmag.ir/) (Art \& Culture), Tehran, Iran, 2019-now
 * R\&D Technician in _Tajhiz-Gostar-e-Sharif_, Tehran, Iran, 2016
 
 Teaching Experience
