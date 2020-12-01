@@ -1,5 +1,5 @@
 ---
-title: "Body Series"
+title: "My Drawings"
 excerpt: "<img src='/images/p5/p5-1-sample.JPG'>"
 collection: portfolio 5
 ---
